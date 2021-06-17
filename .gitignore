@@ -1,0 +1,5 @@
+twitter_credentials.json
+/.ipynb_checkpoints/
+/venv/
+/reddit_credentials.json
+.idea
